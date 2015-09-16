@@ -1,0 +1,5 @@
+#QuickCAD
+Small CAD application for edit Dxf files. Multiplatform application based on Qt Framework.
+
+###Version 0.01a - development stage
+Singleton for application with main function for Dxf files manipulation.
